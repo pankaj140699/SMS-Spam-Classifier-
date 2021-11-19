@@ -6,7 +6,10 @@ This web app is hosted on heroku and can be viewed from the link given below :
 
 Link: https://detsms.herokuapp.com/
 
-Flowchart Of Methodology****
+**Flowchart Of Methodology**
+
+
+![Screenshot (24)](https://user-images.githubusercontent.com/53823786/142629188-69e31b49-12f8-4966-b4ac-c7818a27f907.png)
 
 **Input:**
 
